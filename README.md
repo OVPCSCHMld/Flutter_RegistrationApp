@@ -23,8 +23,8 @@ step 1: create a new flutter project in "Android Studio".
 Step 2: create a new folder "assets" inside project route
 
 Step 3: create two new folders inside "assets" as "fonts" and "images"
-the paste "Schuyler" file and "CuriosityRover" inside "fonts" and "images", respectively
+then paste "Schuyler" file and "CuriosityRover" inside "fonts" and "images", respectively
 
-Step4: open project with Android studio and open AVD manger then startr emulator
+Step4: open project with Android studio and open AVD manger then start emulator
 
 Step 5: RUN
