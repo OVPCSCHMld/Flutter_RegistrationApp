@@ -17,6 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 
 How to setup the app:
+
 step 1: create a new flutter project in "Android Studio".
 
 Step 2: create a new folder "assets" inside project route
